@@ -1,4 +1,4 @@
-# Dark and light theme "minima" for [Telegram Desktop!](https://telegram.org/apps#desktop-apps)
+# Dark and light theme "minima" for [Telegram Desktop](https://telegram.org/apps#desktop-apps)
 
 ## Minimadark preview
 
@@ -14,4 +14,4 @@
 
 ![install](https://github.com/magomaev/telegram-theme-minima/blob/master/install.gif)
 
-[Telegram Desktop!](https://desktop.telegram.org/)
+[Telegram Desktop](https://desktop.telegram.org/)
