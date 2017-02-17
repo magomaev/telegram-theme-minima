@@ -11,9 +11,8 @@
 ## Install
 1. Drag'n'Drop colors.tdesktop-theme to window
 2. Send file
-3. Download file
-4. Click and keep changes
-2. Change background to tiled.png
+3. Click and keep changes
+4. Change background to tiled.png
 
 ![install](https://github.com/magomaev/telegram-theme-minima/blob/master/install.gif)
 
