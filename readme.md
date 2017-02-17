@@ -1,4 +1,4 @@
-# Dark and light theme "minima" for Telegram Desktop
+# Dark and light theme "minima" for ![Telegram Desktop] (https://desktop.telegram.org/)
 
 ## Minimadark preview
 
@@ -7,3 +7,7 @@
 ## Minimallight preview
 
 ![minimalight_preview](https://github.com/magomaev/telegram-theme-minima/blob/master/minimalight_preview.png)
+
+## Install
+1. Drag'n'Drop colors.tdesktop-theme to window
+2. Change background
